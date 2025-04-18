@@ -32,8 +32,8 @@ Journal of Visualization (JoV), 2024
 **Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
 International Conference on Bioinformatics and Biomedicine (BIBM), 2024
 
-- Protein-binding RNA Prediction Based on Integrated Sequence-Structure-Function Pre-training [[PDF]](https://echochou990919.github.io/files/MTPRBP.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10946866) [[Github]](https://github.com/TimmyGan/MTP-RBP)
-Lin Gan, Xinyi Wang, **Yi Zhou**, Min Zhu
+- Protein-binding RNA Prediction Based on Integrated Sequence-Structure-Function Pre-training [[PDF]](https://echochou990919.github.io/files/MTPRBP.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10946866) [[Github]](https://github.com/TimmyGan/MTP-RBP)  
+Lin Gan, Xinyi Wang, **Yi Zhou**, Min Zhu  
 IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025
 
 # Preprints
