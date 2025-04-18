@@ -21,6 +21,7 @@ My primary research interest is **AI4Science**, concretely using **Language Mode
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
+- [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by IEEE Transactions on Computational Biology and Bioinformatics, congrats to Lin Gan!
 - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
 - [Dec. 2025] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is finally accepted by BIBM 2024!
 - [Sep. 2024] So happy to start my Ph.D. journey at PloyU!
@@ -28,5 +29,9 @@ My primary research interest is **AI4Science**, concretely using **Language Mode
 - [Apr. 2024] [Dowsing](https://link.springer.com/article/10.1007/s12650-024-00989-9) is accepted by Journal of Visualization, congrats to Jiamin!
 <!-- - [Oct. 2023] I have received a conditional offer from the Department of Computing, Hong Kong Polytechnic University. Looking forward to start my PhD journey under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) from Fall 2024! -->
 <!-- - [Jul. 2023] [EGPMDA](http://arxiv.org/abs/2307.07957) is available online. I discussed the generalizability and explainability of miRNA-disease association prediction. -->
-- [Jun. 2023] [GBDT4CTRVis](https://link.springer.com/article/10.1007/s12650-024-00984-0) is accepted by ChinaVis 2023, congrats to Wenwen!
-- [Sep. 2022] [LDAformer](https://doi.org/10.1093/bib/bbac370) is accepted by Briefings in Bioinformatics. It's the best publication ever in the Bioinformatics Group of [Vision Computing Lab](https://scuvis.org/).
+<details>
+  <summary>More.</summary>
+  
+  - [Jun. 2023] [GBDT4CTRVis](https://link.springer.com/article/10.1007/s12650-024-00984-0) is accepted by ChinaVis 2023, congrats to Wenwen!
+  - [Sep. 2022] [LDAformer](https://doi.org/10.1093/bib/bbac370) is accepted by Briefings in Bioinformatics. It's the best publication ever in the Bioinformatics Group of [Vision Computing Lab](https://scuvis.org/).
+</details>
