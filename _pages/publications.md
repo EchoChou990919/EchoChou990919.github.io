@@ -18,7 +18,7 @@ Please also find my publications on [Google Scholar](https://scholar.google.com/
 
 - LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
-Briefings in Bioinformatics (BIB), 2022 (JCR-Q1, IF: 13.994)  
+Briefings in Bioinformatics (BIB), 2022  
 
 - GBDT4CTRVis: Visual Analytics of Gradient Boosting Decision Tree for Advertisement Click-Through Rate Prediction [[PDF]](https://echochou990919.github.io/files/GBDT4CTRVis.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00984-0) [[Video]](https://www.bilibili.com/video/BV1Wm4y1E7Q1) [[Slide]](https://echochou990919.github.io/files/GBDT4CTRVis_Slides.pdf)  
 Wenwen Gao, Shangsong Liu, **Yi Zhou**, Fengjie Wang, Feng Zhou, Min Zhu  
@@ -36,6 +36,10 @@ International Conference on Bioinformatics and Biomedicine (BIBM), 2024
 Lin Gan, Xinyi Wang, **Yi Zhou**, Min Zhu  
 IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025
 
+- PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
+Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  
+International Conference on Intelligent Computing (ICIC), 2025
+
 # Preprints
 
 - Computational Protein Science in the Era of Large Language Models (LLMs) [[PDF]](https://echochou990919.github.io/files/lm4protein_arxiv_v2.pdf) [[arXiv]](https://arxiv.org/abs/2501.10282)  
@@ -46,6 +50,9 @@ Wenqi Fan, **Yi Zhou**, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qin
 - A Visualization Method for Chromatin Hierarchy Analysis Based on Genetic Data  
 Min Zhu, Fuqiu Chen, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN113946730A  
+- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
+Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st Student Author**)  
+CN115171780A
 - An Analytical Task Perception Method that Integrates Deep Learning Models and Rules  
 Min Zhu, Meixuan Wu, Jiamin Zhu, **Yi Zhou**, Haotian Zhu  
 CN116303737A *(Under Substantial Examination)*  
@@ -55,9 +62,6 @@ CN116204704A *(Under Substantial Examination)*
 - Chromatin Topologically Associating Domains Boundary Prediction Method Based on Multimodal Fusion  
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
 CN115831217A *(Under Substantial Examination)*  
-- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
-Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st Student Author**)  
-CN115171780A *(Under Substantial Examination)*  
 <!-- - Method and System for Predicting Chromatin Topologically Associating Domains Based on Spectral Clustering  
 Min Zhu, Chunlin Long, Mingyang Zhang, Xinyi Wang, **Yi Zhou**  
 CN114444286A *(Under Substantial Examination)*   -->

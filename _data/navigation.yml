@@ -18,8 +18,8 @@ main:
   - title: "Curriculum Vitae"
     url: /cv/
     
-  - title: "Blogs"
-    url: /year-archive/
+  # - title: "Blogs"
+  #   url: /year-archive/
     # url: /blogs/
   
   # - title: "CV"

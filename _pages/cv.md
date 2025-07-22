@@ -46,6 +46,7 @@ Responsible for all non-working tasks
 
 # Awards
 
+- PolyU Research Postgraduate Scholarship (PRPgS), 2024
 - Outstanding Undergraduate Teaching Assistant at Sichuan University, 2024  
 - Outstanding Graduate of Sichuan University, 2024  
 - Outstanding Graduate Student of Sichuan University, 2023  

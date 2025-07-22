@@ -13,7 +13,7 @@ Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
 <!-- My research background is in bioinformatics and data visualization, devoted to proposing effective and explainable link prediction methods on biomedical interaction graphs.  -->
-My primary research interest is **AI4Science**, concretely using **Language Models** and **Graph Machine Learning** techniques to help solve biomedical problems. Besides, I have been involved in some **Data Visualization** studies. I would appreciate any opportunity for relevant collaboration.
+My primary research interest is **AI4Science**, concretely using **Large Language Models** and **Graph Machine Learning** techniques to solve biomedical problems. Besides, I have been involved in some **Data Visualization** studies. I would appreciate any opportunity for relevant collaboration.
 <!-- especially towards knowledge representation in real-world scenarios: identifying valuable problems, improving learning methods, and ensuring the insights gained are trustworthy. -->
 
 <!-- ***I am looking for a Ph.D. position in 24 fall***, and here is a [blog](https://echochou990919.github.io/posts/blog-post-1/) introducing my strong self-motivation. It's usually said that "connection is all you need" for the Ph.D. application, and while I currently have few connections with the community of Graph. However, let's look at it positively from the perspective of "Link Prediction", what an exciting process of cold start! I would appreciate any opportunity for collaboration.   -->
@@ -21,7 +21,8 @@ My primary research interest is **AI4Science**, concretely using **Language Mode
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
-- [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by IEEE Transactions on Computational Biology and Bioinformatics, congrats to Lin Gan!
+- [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted by ICIC 2025, congrats to Meixuan! 
+- [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB, congrats to Lin Gan!
 - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
 - [Dec. 2025] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is finally accepted by BIBM 2024!
 - [Sep. 2024] So happy to start my Ph.D. journey at PloyU!
