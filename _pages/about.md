@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello everyone! I am Yi Zhou, now a first-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). In 2024, I obtained my master's degree in Computer Science and Technology from Sichuan University, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm). In 2021, I received a bachelor's degree in Computer Science and Technology from Sichuan University, under the [Wu Yuzhang Honors program](https://www.scu.edu.cn/wyzxy/).
+Hello everyone! I am Yi Zhou, now a second-year PhD student in the [Department of Computing](https://www.polyu.edu.hk/comp/) of [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). In 2024, I obtained my master's degree in Computer Science and Technology from Sichuan University, advised by Prof. [Min Zhu](https://cs.scu.edu.cn/info/1279/13673.htm). In 2021, I received a bachelor's degree in Computer Science and Technology from Sichuan University, under the [Wu Yuzhang Honors Program](https://www.scu.edu.cn/wyzxy/).
 
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
@@ -21,6 +21,7 @@ My primary research interest is **AI4Science**, concretely using **Large Languag
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
+- [Dec. 2025] New preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is online!
 - [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted by ICIC 2025, congrats to Meixuan! 
 - [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB, congrats to Lin Gan!
 - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!

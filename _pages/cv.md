@@ -14,7 +14,7 @@ Please kindly find my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf)
 # Education
 
 - Department of Computing, Hong Kong Polytechnic University, 2024-Present  
-Ph.D. in Computing
+Ph.D. in Computing, GPA: 4.1/4.3  
 - College of Computer Science, Sichuan University, 2021-2024  
 M.E. in Computer Science and Technology, GPA: 3.76/4  
 - College of Computer Science / Wu Yuzhang Honors College, Sichuan University, 2017-2021  
@@ -27,6 +27,7 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
   - Data Visualization (311301030), Sichuan University, Fall 2023
   - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Fall 2024
   - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2025
+  - Computational Thinking and Problem Solving (COMP1010), Hong Kong Polytechnic University, Fall 2025
 - Invited Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Spring 2024
 
