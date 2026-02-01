@@ -21,13 +21,14 @@ My primary research interest is **AI4Science**, concretely using **Large Languag
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
+- [Jan. 2026] [DeMol](https://openreview.net/forum?id=S4bJQ4p9hx) is accepted by ICLR 2026, big congrats to Yunqing!
 - [Dec. 2025] New preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is online!
 - [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted by ICIC 2025, congrats to Meixuan! 
 - [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB, congrats to Lin Gan!
 - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
 - [Dec. 2025] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is finally accepted by BIBM 2024!
 - [Sep. 2024] So happy to start my Ph.D. journey at PloyU!
-- [Jun. 2024] Graduate from Sichuan University and obtain my master’s degree.
+<!-- - [Jun. 2024] Graduate from Sichuan University and obtain my master’s degree. -->
 <!-- - [Apr. 2024] [Dowsing](https://link.springer.com/article/10.1007/s12650-024-00989-9) is accepted by Journal of Visualization, congrats to Jiamin! -->
 <!-- - [Oct. 2023] I have received a conditional offer from the Department of Computing, Hong Kong Polytechnic University. Looking forward to start my PhD journey under the supervision of Prof. [Wenqi Fan](https://wenqifan03.github.io/) and Prof. [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/) from Fall 2024! -->
 <!-- - [Jul. 2023] [EGPMDA](http://arxiv.org/abs/2307.07957) is available online. I discussed the generalizability and explainability of miRNA-disease association prediction. -->

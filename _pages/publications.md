@@ -32,6 +32,10 @@ Briefings in Bioinformatics (BIB), 2022
 **Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
 International Conference on Bioinformatics and Biomedicine (BIBM), 2024
 
+- Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions [[OpenReview]](https://openreview.net/forum?id=S4bJQ4p9hx) [[GitHub]](https://github.com/LiuYunqing/DeMol)  
+Yunqing Liu, **Yi Zhou**, Wenqi Fan  
+International Conference on Learning Representations (ICLR), 2026
+
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  
 International Conference on Intelligent Computing (ICIC), 2025, **Oral**
