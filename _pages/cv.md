@@ -35,7 +35,7 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 # Academic Services
 
 - Conference Reviewer:
-  - KDD 2026  
+  - KDD 2026 (AI for Sciences Track)  
 - Journal Reviewer:
   - Expert Systems With Applications (ESWA)
 
