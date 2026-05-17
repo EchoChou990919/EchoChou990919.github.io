@@ -28,22 +28,23 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
   - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Fall 2024
   - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2025
   - Computational Thinking and Problem Solving (COMP1010), Hong Kong Polytechnic University, Fall 2025
+  - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2026
 - Invited Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Spring 2024
 
 # Academic Services
 
+- Conference Reviewer:
+  - KDD 2026  
 - Journal Reviewer:
   - Expert Systems With Applications (ESWA)
 
-# Other Services
+<!-- # Other Services
 
 - Mentor of Bioinformatics Group, Vision Computing Lab, 2022-2024  
 Mentored Meixuan Wu, Xiyao Li, Wanjing Zhang, Xian Guan, Lin Gan and Chengzhou Ouyang  
-<!-- Mentored Chengzhou Ouyang and  -->
-<!-- Gogoing Projects: Prediction of various RNA-disease associations, Prediction of enhancer-promoter interactions, Prediction of RNA-protein interactions   -->
 - Living Manager, Vision Computing Lab, 2021-2023  
-Responsible for all non-working tasks  
+Responsible for all non-working tasks   -->
 
 # Awards
 

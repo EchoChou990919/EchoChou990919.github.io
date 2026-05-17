@@ -14,27 +14,28 @@ author_profile: true
 
 Please also find my publications on [Google Scholar](https://scholar.google.com/citations?user=yXOpclkAAAAJ) ( <a href='https://scholar.google.com/citations?user=yXOpclkAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> ).
 
-# Preprints
-
-- HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
-**Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
+# Preprints 
 
 - Computational Protein Science in the Era of Large Language Models (LLMs) [[PDF]](https://echochou990919.github.io/files/lm4protein_arxiv_v2.pdf) [[arXiv]](https://arxiv.org/abs/2501.10282)  
-Wenqi Fan, **Yi Zhou**, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li  
+**Yi Zhou**, Wenqi Fan, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li  
 
 # Publications
 
-- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
-**Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
-Briefings in Bioinformatics (BIB), 2022  
+- HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
+**Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan 
+International Conference on Knowledge Discovery and Data Mining (KDD), 2026 (**CCF-A**)  
 
 - Timely-MDA: A Benchmark for Generalizable MiRNA-Disease Association Prediction [[PDF]](https://echochou990919.github.io/files/BIBM_Short_Paper_v2.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10822171) [[Github]](https://github.com/EchoChou990919/Timely-MDA)  
 **Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
-International Conference on Bioinformatics and Biomedicine (BIBM), 2024
+International Conference on Bioinformatics and Biomedicine (BIBM), 2024 (**CCF-B**)  
+
+- LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
+**Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
+Briefings in Bioinformatics (BIB), 2022 (**JCR-Q1, IF=13.994**)  
 
 - Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions [[OpenReview]](https://openreview.net/forum?id=S4bJQ4p9hx) [[GitHub]](https://github.com/LiuYunqing/DeMol)  
 Yunqing Liu, **Yi Zhou**, Wenqi Fan  
-International Conference on Learning Representations (ICLR), 2026
+International Conference on Learning Representations (ICLR), 2026 (**CCF-A**)  
 
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  
@@ -42,7 +43,7 @@ International Conference on Intelligent Computing (ICIC), 2025, **Oral**
 
 - Protein-binding RNA Prediction Based on Integrated Sequence-Structure-Function Pre-training [[PDF]](https://echochou990919.github.io/files/MTPRBP.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10946866) [[Github]](https://github.com/TimmyGan/MTP-RBP)  
 Lin Gan, Xinyi Wang, **Yi Zhou**, Min Zhu  
-IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025
+IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025 (**JCR-Q1**)
 
 - Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[PDF]](https://echochou990919.github.io/files/Dowsing.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00989-9) [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
@@ -65,16 +66,16 @@ Min Zhu, Fuqiu Chen, Chunlin Long, **Yi Zhou**, Xinyi Wang
 CN202111217034.2  
 - An Analytical Task Perception Method that Integrates Deep Learning Models and Rules  
 Min Zhu, Meixuan Wu, Jiamin Zhu, **Yi Zhou**, Haotian Zhu  
-CN202211104004.5 *(Under Substantial Examination)*  
+CN202211104004.5
 - A Dynamic Visualization Recommendation Method Based on User Tasks  
 Min Zhu, Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu  
-CN202211610962.X *(Under Substantial Examination)*  
+CN202211610962.X
 - A Prediction Method for Chromatin Topological Association Domain Boundary Based on Multimodal Fusion  
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
-CN202211477002.0 *(Under Substantial Examination)*  
+CN202211477002.0
 - A Visual Analytics Method for RNA-Disease Associations Based on Density Relational Graphs
 Min Zhu, Jiamin Zhu, Meixuan Wu, **Yi Zhou**  
-CN202311187212.0 *(Under Substantial Examination)*  
+CN202311187212.0
 
 
 <!-- [PDF](https://echochou990919.github.io/files/CN115171780A.pdf) -->
