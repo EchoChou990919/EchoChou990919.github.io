@@ -22,7 +22,7 @@ Please also find my publications on [Google Scholar](https://scholar.google.com/
 # Publications
 
 - HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
-**Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan 
+**Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
 International Conference on Knowledge Discovery and Data Mining (KDD), 2026 (**CCF-A**)  
 
 - Timely-MDA: A Benchmark for Generalizable MiRNA-Disease Association Prediction [[PDF]](https://echochou990919.github.io/files/BIBM_Short_Paper_v2.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10822171) [[Github]](https://github.com/EchoChou990919/Timely-MDA)  
@@ -85,13 +85,13 @@ CN202311187212.0
 <!-- [PDF](https://echochou990919.github.io/files/CN113946730A.pdf) -->
 <!-- [PDF](https://echochou990919.github.io/files/CN114444286A.pdf) -->
 
-# Other Available Works
+<!-- # Other Available Works
 
 - Sichuan University - Huawei MindSpore Application Case Implementation Project: Swin Transformer [[GitHub]](https://github.com/EchoChou990919/mindspore_swin_transformer)  
 **Yi Zhou**, Xiyao Li, Wanjing Zhang  
 
 - DLMV: A Visual Analytic System for LncRNA-Disease Association Prediction [[Poster]](https://echochou990919.github.io/files/DLMV_Poster.pdf) [[Online Demo]](https://rna-disease.pages.dev/)  
-**Yi Zhou**, Jiamin Zhu, Meixuan Wu  
+**Yi Zhou**, Jiamin Zhu, Meixuan Wu   -->
 
 
 <!-- {% if author.googlescholar %}

@@ -25,10 +25,10 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 <!--  (311301030) -->
 - Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Fall 2023
-  - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Fall 2024
-  - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2025
+  - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Fall 2024, Spring 2025, & Spring 2026
+  <!-- - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2025 -->
   - Computational Thinking and Problem Solving (COMP1010), Hong Kong Polytechnic University, Fall 2025
-  - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2026
+  <!-- - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2026 -->
 - Invited Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Spring 2024
 
@@ -54,5 +54,5 @@ Responsible for all non-working tasks   -->
 - Outstanding Graduate Student of Sichuan University, 2023  
 - First-class of Excellent Graduate Scholarship by Sichuan University, 2023  
 - Tencent Scholarship of Sichuan University, 2023  
-- Second-class of Excellent Graduate Scholarship by Sichuan University, 2021 and 2022  
+<!-- - Second-class of Excellent Graduate Scholarship by Sichuan University, 2021 and 2022   -->
 - Certificate of Honor from Wu Yuzhang Honors College, 2021  
