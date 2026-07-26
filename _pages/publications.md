@@ -19,6 +19,9 @@ Please also find my publications on [Google Scholar](https://scholar.google.com/
 - Computational Protein Science in the Era of Large Language Models (LLMs) [[PDF]](https://echochou990919.github.io/files/lm4protein_arxiv_v2.pdf) [[arXiv]](https://arxiv.org/abs/2501.10282)  
 **Yi Zhou**, Wenqi Fan, Shijie Wang, Yuyao Yan, Hui Liu, Qian Zhao, Le Song, Qing Li  
 
+- Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition [[arXiv]](https://arxiv.org/abs/2605.25577)  
+Yunqing Liu, **Yi Zhou**, Wenqi Fan  
+
 # Publications
 
 - HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
@@ -36,6 +39,10 @@ Briefings in Bioinformatics (BIB), 2022 (**JCR-Q1, IF=13.994**)
 - Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions [[OpenReview]](https://openreview.net/forum?id=S4bJQ4p9hx) [[GitHub]](https://github.com/LiuYunqing/DeMol)  
 Yunqing Liu, **Yi Zhou**, Wenqi Fan  
 International Conference on Learning Representations (ICLR), 2026 (**CCF-A**)  
+
+- Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation  
+Tianzhong Lan, Weili Jiang, Yisong Liu, **Yi Zhou**, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu  
+European Conference on Computer Vision (ECCV), 2026 (**CCF-B**)  
 
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  

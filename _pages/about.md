@@ -13,7 +13,7 @@ Hello everyone! I am Yi Zhou, now a second-year PhD candidate in the [Department
 <!-- Here is my [CV](https://echochou990919.github.io/files/YiZhou_CV.pdf). -->
 
 <!-- My research background is in bioinformatics and data visualization, devoted to proposing effective and explainable link prediction methods on biomedical interaction graphs.  -->
-My primary research interest is **AI4Science**, concretely using **Large Language Models** and **Graph Machine Learning** techniques to solve biomedical problems. Besides, I have been involved in some Data Visualization studies. I would appreciate any opportunity for relevant collaboration.
+My primary research interest is **AI4Science**, concretely using generative modeling techniques (e.g., **Large Language Models**, **Diffusion Models**) to solve biomedical problems. Besides, I have been involved in some Data Visualization studies. I would appreciate any opportunity for relevant collaboration.
 <!-- especially towards knowledge representation in real-world scenarios: identifying valuable problems, improving learning methods, and ensuring the insights gained are trustworthy. -->
 
 <!-- ***I am looking for a Ph.D. position in 24 fall***, and here is a [blog](https://echochou990919.github.io/posts/blog-post-1/) introducing my strong self-motivation. It's usually said that "connection is all you need" for the Ph.D. application, and while I currently have few connections with the community of Graph. However, let's look at it positively from the perspective of "Link Prediction", what an exciting process of cold start! I would appreciate any opportunity for collaboration.   -->
@@ -21,12 +21,14 @@ My primary research interest is **AI4Science**, concretely using **Large Languag
 # News
 
 <!-- - [Jul. 2023] Chongqing, ChinaVis 2023 -->
+- [Jun. 2026] [WCC4MS]() is accepted by ECCV 2026, congrats to Tianzhong!  
+- [May. 2026] New preprint "[Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition](https://arxiv.org/abs/2605.25577)" is online!  
 - [May. 2026] [HD-Prot](https://arxiv.org/abs/2512.15133) is accepted by KDD 2026 (AI for Sciences Track)!
 - [Jan. 2026] [DeMol](https://openreview.net/forum?id=S4bJQ4p9hx) is accepted by ICLR 2026, big congrats to Yunqing!
-- [Dec. 2025] New preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is online!
 - [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted by ICIC 2025, congrats to Meixuan! 
 - [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB, congrats to Lin Gan!
 - [Jan. 2025] New preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is online!
+<!-- - [Dec. 2025] New preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is online! -->
 <!-- - [Dec. 2025] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is finally accepted by BIBM 2024! -->
 <!-- - [Sep. 2024] So happy to start my Ph.D. journey at PloyU! -->
 <!-- - [Jun. 2024] Graduate from Sichuan University and obtain my master’s degree. -->
