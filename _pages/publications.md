@@ -26,23 +26,23 @@ Yunqing Liu, **Yi Zhou**, Wenqi Fan
 
 - HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
 **Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
-International Conference on Knowledge Discovery and Data Mining (KDD), 2026 (**CCF-A**)  
+International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026 (**CCF-A**)  
 
 - Timely-MDA: A Benchmark for Generalizable MiRNA-Disease Association Prediction [[PDF]](https://echochou990919.github.io/files/BIBM_Short_Paper_v2.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10822171) [[Github]](https://github.com/EchoChou990919/Timely-MDA)  
 **Yi Zhou**, Xian Guan, Meixuan Wu, Chengzhou Ouyang, Min Zhu  
-International Conference on Bioinformatics and Biomedicine (BIBM), 2024 (**CCF-B**)  
+International Conference on Bioinformatics and Biomedicine (**BIBM**), 2024 (**CCF-B**)  
 
 - LDAformer: Predicting LncRNA-Disease Associations based on Topological Feature Extraction and Transformer Encoder [[PDF]](https://echochou990919.github.io/files/LDAformer.pdf) [[DOI]](https://doi.org/10.1093/bib/bbac370) [[GitHub]](https://github.com/EchoChou990919/LDAformer)  
 **Yi Zhou**, Xinyi Wang, Lin Yao, Min Zhu  
-Briefings in Bioinformatics (BIB), 2022 (**JCR-Q1, IF=13.994**)  
+Briefings in Bioinformatics (**BIB**), 2022 (**JCR-Q1, IF=13.994**)  
 
-- Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions [[OpenReview]](https://openreview.net/forum?id=S4bJQ4p9hx) [[GitHub]](https://github.com/LiuYunqing/DeMol)  
+- Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions [[PDF]](https://echochou990919.github.io/files/DeMol.pdf) [[OpenReview]](https://openreview.net/forum?id=S4bJQ4p9hx) [[GitHub]](https://github.com/LiuYunqing/DeMol)  
 Yunqing Liu, **Yi Zhou**, Wenqi Fan  
-International Conference on Learning Representations (ICLR), 2026 (**CCF-A**)  
+International Conference on Learning Representations (**ICLR**), 2026 (**CCF-A**)  
 
 - Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation  
 Tianzhong Lan, Weili Jiang, Yisong Liu, **Yi Zhou**, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu  
-European Conference on Computer Vision (ECCV), 2026 (**CCF-B**)  
+European Conference on Computer Vision (**ECCV**), 2026 (**CCF-B**)  
 
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  
@@ -50,7 +50,7 @@ International Conference on Intelligent Computing (ICIC), 2025, **Oral**
 
 - Protein-binding RNA Prediction Based on Integrated Sequence-Structure-Function Pre-training [[PDF]](https://echochou990919.github.io/files/MTPRBP.pdf) [[DOI]](https://ieeexplore.ieee.org/abstract/document/10946866) [[Github]](https://github.com/TimmyGan/MTP-RBP)  
 Lin Gan, Xinyi Wang, **Yi Zhou**, Min Zhu  
-IEEE Transactions on Computational Biology and Bioinformatics (TCBB), 2025 (**JCR-Q1**)
+IEEE Transactions on Computational Biology and Bioinformatics (**TCBB**), 2025 (**JCR-Q1**)
 
 - Dowsing: A Task-Driven Approach for Multiple-View Visualizations Dynamic Recommendation [[PDF]](https://echochou990919.github.io/files/Dowsing.pdf) [[DOI]](https://link.springer.com/article/10.1007/s12650-024-00989-9) [[Webpage]](https://dowsing-machine.github.io/) [[Online Demo]](http://dowsing-machine.com/)  
 Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu, Min Zhu  
@@ -62,35 +62,24 @@ Journal of Visualization (JoV), 2024
 
 # Patents
 
-- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
-Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st Student Author**)  
-CN202210818621.5  
 - A MicroRNA-Disease Association Prediction Method Based on Graph Neural Networks  
 Min Zhu, Meixuan Wu, **Yi Zhou**  
-CN202411841640.5  
-- A Visualization Method for Chromatin Hierarchy Analysis Based on Genetic Data  
-Min Zhu, Fuqiu Chen, Chunlin Long, **Yi Zhou**, Xinyi Wang  
-CN202111217034.2  
-- An Analytical Task Perception Method that Integrates Deep Learning Models and Rules  
-Min Zhu, Meixuan Wu, Jiamin Zhu, **Yi Zhou**, Haotian Zhu  
-CN202211104004.5
-- A Dynamic Visualization Recommendation Method Based on User Tasks  
-Min Zhu, Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu  
-CN202211610962.X
+CN119763668B, 2024  
+- Method and System for Long Non-coding RNA-Disease Association Prediction Based on Self-Attention Mechanism  
+Min Zhu, **Yi Zhou**, Xinyi Wang, Lin Yao (**1st Student Author**)  
+CN115171780B, 2022  
 - A Prediction Method for Chromatin Topological Association Domain Boundary Based on Multimodal Fusion  
 Min Zhu, Xiyao Li, Chunlin Long, **Yi Zhou**, Xinyi Wang  
-CN202211477002.0
-- A Visual Analytics Method for RNA-Disease Associations Based on Density Relational Graphs
-Min Zhu, Jiamin Zhu, Meixuan Wu, **Yi Zhou**  
-CN202311187212.0
-
-
-<!-- [PDF](https://echochou990919.github.io/files/CN115171780A.pdf) -->
-<!-- [PDF](https://echochou990919.github.io/files/CN116303737A.pdf) -->
-<!-- [PDF](https://echochou990919.github.io/files/CN116204704A.pdf) -->
-<!-- [PDF](https://echochou990919.github.io/files/CN115831217A.pdf) -->
-<!-- [PDF](https://echochou990919.github.io/files/CN113946730A.pdf) -->
-<!-- [PDF](https://echochou990919.github.io/files/CN114444286A.pdf) -->
+CN115831217B, 2022  
+- A Dynamic Visualization Recommendation Method Based on User Tasks  
+Min Zhu, Jiamin Zhu, Meixuan Wu, **Yi Zhou**, Haotian Zhu  
+CN116204704B, 2022  
+- An Analytical Task Perception Method that Integrates Deep Learning Models and Rules  
+Min Zhu, Meixuan Wu, Jiamin Zhu, **Yi Zhou**, Haotian Zhu  
+CN116303737B, 2022  
+- A Visualization Method for Chromatin Hierarchy Analysis Based on Genetic Data  
+Min Zhu, Fuqiu Chen, Chunlin Long, **Yi Zhou**, Xinyi Wang  
+CN113946730B, 2021  
 
 <!-- # Other Available Works
 

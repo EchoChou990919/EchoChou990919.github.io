@@ -26,13 +26,12 @@ B.E. in Computer Science and Technology, GPA: 3.77/4
 - Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Fall 2023
   - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Fall 2024, Spring 2025, & Spring 2026
-  <!-- - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2025 -->
   - Computational Thinking and Problem Solving (COMP1010), Hong Kong Polytechnic University, Fall 2025
   <!-- - Introduction to Artificial Intelligence and Data Analytic (COMP1004), Hong Kong Polytechnic University, Spring 2026 -->
 - Invited Teaching Assistant:
   - Data Visualization (311301030), Sichuan University, Spring 2024
 
-# Academic Services
+# Services
 
 - Conference Reviewer:
   - KDD 2026 (AI for Sciences Track)  
