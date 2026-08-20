@@ -24,7 +24,7 @@ Yunqing Liu, **Yi Zhou**, Wenqi Fan
 
 # Publications
 
-- HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v1.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
+- HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v3.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
 **Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
 International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026 (**CCF-A**)  
 

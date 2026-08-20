@@ -29,7 +29,7 @@ My primary research interest is **AI for Science**, concretely using generative 
 - [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB. Congratulations to Lin Gan!
 - [Jan. 2025] Our preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is now available!
 
-<details>
+<details markdown="block">
   <summary>More News</summary>
 
 - [Dec. 2025] Our preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is now available!
