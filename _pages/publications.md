@@ -24,6 +24,10 @@ Yunqing Liu, **Yi Zhou**, Wenqi Fan
 
 # Publications
 
+- Unlocking Multimodal Protein Language Models at Inference Time  
+**Yi Zhou**, Qipeng Wang, Yunqing Liu, Jun Xia, Qing Li, Wenqi Fan  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2026 (**CCF-B**), *to appear*  
+
 - HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v3.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
 **Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
 International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026 (**CCF-A**)  
@@ -42,7 +46,7 @@ International Conference on Learning Representations (**ICLR**), 2026 (**CCF-A**
 
 - Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation  
 Tianzhong Lan, Weili Jiang, Yisong Liu, **Yi Zhou**, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu  
-European Conference on Computer Vision (**ECCV**), 2026 (**CCF-B**)  
+European Conference on Computer Vision (**ECCV**), 2026 (**CCF-B**), *to appear*  
 
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  

@@ -21,18 +21,19 @@ My primary research interest is **AI for Science**, concretely using generative 
 
 # News
 
+- [Aug. 2026] Our paper "[Unlocking Multimodal Protein Language Models at Inference Time]()" is accepted to EMNLP 2026 (Main Conference)!  
 - [Jun. 2026] [WCC4MS]() is accepted to ECCV 2026. Congratulations to Tianzhong!  
 - [May. 2026] Our preprint "[Geometric Flow Matching for Molecular Conformation Generation via Manifold Decomposition](https://arxiv.org/abs/2605.25577)" is now available!  
 - [May. 2026] [HD-Prot](https://arxiv.org/abs/2512.15133) is accepted to KDD 2026 (AI for Sciences Track)!
 - [Jan. 2026] [DeMol](https://openreview.net/forum?id=S4bJQ4p9hx) is accepted to ICLR 2026. Big congratulations to Yunqing!
-- [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted to ICIC 2025. Congratulations to Meixuan!  
-- [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB. Congratulations to Lin Gan!
 - [Jan. 2025] Our preprint "[Computational Protein Science in the Era of Large Language Models (LLMs)](https://arxiv.org/abs/2501.10282)" is now available!
 
 <details markdown="block">
   <summary>More News</summary>
 
 - [Dec. 2025] Our preprint "[HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens](https://arxiv.org/abs/2512.15133)" is now available!
+- [May. 2025] [PLHGMDA](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31) is accepted to ICIC 2025. Congratulations to Meixuan!  
+- [Mar. 2025] [MTP-RBP](https://ieeexplore.ieee.org/abstract/document/10946866) is accepted by TCBB. Congratulations to Lin Gan!
 - [Dec. 2024] [Timely-MDA](https://ieeexplore.ieee.org/abstract/document/10822171) is accepted to BIBM 2024!
 - [Sep. 2024] So happy to start my Ph.D. journey at PolyU!
 - [Jun. 2024] I have graduated from Sichuan University and obtained my master's degree!
