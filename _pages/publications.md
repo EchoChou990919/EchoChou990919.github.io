@@ -24,9 +24,9 @@ Yunqing Liu, **Yi Zhou**, Wenqi Fan
 
 # Publications
 
-- Unlocking Multimodal Protein Language Models at Inference Time  
+- Unlocking Multimodal Protein Language Models at Inference Time [[PDF]](https://echochou990919.github.io/files/mplm_inference.pdf) [[arXiv]](https://arxiv.org/abs/2608.25855) [[Github]](https://github.com/EchoChou990919/mplm_inference)  
 **Yi Zhou**, Qipeng Wang, Yunqing Liu, Jun Xia, Qing Li, Wenqi Fan  
-Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2026 (**CCF-B**), *to appear*  
+Conference on Empirical Methods in Natural Language Processing (**EMNLP Main**), 2026 (**CCF-B**)
 
 - HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens [[PDF]](https://echochou990919.github.io/files/hdprot_arxiv_v3.pdf) [[arXiv]](https://arxiv.org/abs/2512.15133) [[GitHub]](https://github.com/EchoChou990919/hdprot)  
 **Yi Zhou**, Haohao Qu, Yunqing Liu, Shanru Lin, Le Song, Wenqi Fan  
