@@ -44,9 +44,9 @@ Briefings in Bioinformatics (**BIB**), 2022 (**JCR-Q1, IF=13.994**)
 Yunqing Liu, **Yi Zhou**, Wenqi Fan  
 International Conference on Learning Representations (**ICLR**), 2026 (**CCF-A**)  
 
-- Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation  
+- Wavelet-Driven Cross-Domain Consistency for Mixed-Supervised 3D Tumor Segmentation [[PDF]](https://echochou990919.github.io/files/WCC4MS.pdf) [[Poster]](https://eccv.ecva.net/virtual/2026/poster/3143)  
 Tianzhong Lan, Weili Jiang, Yisong Liu, **Yi Zhou**, Junqi Bai, Si Yong Yeo, Xulei Yang, Min Zhu  
-European Conference on Computer Vision (**ECCV**), 2026 (**CCF-B**), *to appear*  
+European Conference on Computer Vision (**ECCV**), 2026 (**CCF-B**) 
 
 - PLHGMDA: Pre-trained Language Model and Heterogeneous Graph Neural Network for MiRNA-Disease Association Prediction [[DOI]](https://link.springer.com/chapter/10.1007/978-981-95-0027-7_31)  
 Meixuan Wu, Yizhou Yang, **Yi Zhou**, Kai Wang, Junqi Bai, Min Zhu  
